@@ -27,9 +27,8 @@ pip
 Installation
 Clone the repository:
 
-1. Clone the repository: `git clone https://github.com/sushantkothari/wildlife-detection-using-custom-cnn-model.git`
-2. Navigate to project directory `cd wildlife-detection-cnn`
-3. Install the required packages: `pip install tensorflow tensorflow-gpu opencv-python matplotlib`
+1. Clone the repository: `git clone https:https://github.com/AishaMaryam4/Wildlife-detection-model-4`
+2. Install the required packages: `pip install tensorflow tensorflow-gpu opencv-python matplotlib`
 
 ## Customization
 Feel free to modify the classNames list to add or remove object classes based on your specific use case. Additionally, you can customize the email alert content and time intervals for alerts.
@@ -55,5 +54,3 @@ This project is open-source and released under the MIT License. You are free to 
 A special thank you to the conservationists and researchers who provided the datasets.
 Hat tip to anyone whose code was used as inspiration.
 
-## Contact
-For any questions or inquiries, please contact me at [sk619kothari@gmail.com]
